@@ -174,8 +174,7 @@ class VisitorMap {
         if (statsElement) {
             statsElement.innerHTML = `
                 Total Visits: <strong>${stats.totalVisits}</strong> | 
-                Unique Visitors: <strong>${stats.uniqueVisitors}</strong> | 
-                Countries: <strong>${stats.countries}</strong>
+                Unique Visitors: <strong>${stats.uniqueVisitors}</strong>
             `;
         }
     }
