@@ -21,8 +21,8 @@
       },
       {
         "network": "GitHub",
-        "username": "Linjyan00",
-        "url": "https://github.com/Linjyan00"
+        "username": "LinJyan00",
+        "url": "https://github.com/LinJyan00"
       }
     ]
   },
@@ -110,7 +110,7 @@
     },
     {
       "name": "Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models",
-      "publisher": "Submitted to ICML 2026",
+      "publisher": "arXiv",
       "releaseDate": "2026-01-01",
       "website": "https://arxiv.org/pdf/2601.06843",
       "summary": "Junyan Lin, J. Tong, H. Wu, et al."

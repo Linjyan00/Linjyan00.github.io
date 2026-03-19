@@ -48,7 +48,7 @@ I am a Ph.D. student in Computer Science at [The Hong Kong Polytechnic Universit
 - H. Chen*, **J. Lin***, X. Chen, et al. [Multimodal Language Models See Better When They Look Shallower](https://aclanthology.org/2025.emnlp-main.339/). **EMNLP 2025 Oral** (CCF-B, NLP Tier 1 Conference)
 - **J. Lin**, H. Chen, Y. Fan, et al. [Multi-Layer Visual Feature Fusion in Multimodal LLMs: Methods, Analysis, and Best Practices](https://arxiv.org/pdf/2503.06063). **CVPR 2025** (CCF-A, CV Tier 1 Conference)
 - **J. Lin**, H. Chen, D. Zhu, et al. [To Preserve or Compress: A Study of Connectors Through Perceptual Efficacy in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.325/). **EMNLP 2024** (CCF-B, NLP Tier 1 Conference)
-- **J. Lin**, J. Tong, H. Wu, et al. [Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/pdf/2601.06843). **Submitted to ICML 2026**
+- **J. Lin**, J. Tong, H. Wu, et al. [Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/pdf/2601.06843). **arXiv 2026**
 - J. Liu, Y. Wei, **J. Lin**, et al. [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](https://ieeexplore.ieee.org/abstract/document/10849922/). **VCIP 2024**
 
 **Multisource Remote Sensing Image Classification:**
@@ -69,7 +69,7 @@ I am a Ph.D. student in Computer Science at [The Hong Kong Polytechnic Universit
 - **Email**: linjyan00@163.com
 - **Phone**: +86-17367107694
 - **Google Scholar**: [https://scholar.google.com/citations?user=nbuk8v8AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=nbuk8v8AAAAJ&hl=zh-CN)
-- **GitHub**: [https://github.com/Linjyan00](https://github.com/Linjyan00)
+- **GitHub**: [https://github.com/LinJyan00](https://github.com/LinJyan00)
 
 ## Personal Interests
 

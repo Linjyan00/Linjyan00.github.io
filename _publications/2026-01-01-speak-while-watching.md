@@ -2,7 +2,7 @@
 title: "Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models"
 authors: "Junyan Lin, J. Tong, H. Wu, et al."
 date: 2026-01-01
-venue: "Submitted to ICML 2026"
+venue: "arXiv"
 venue_type: "conference"
 paperurl: "https://arxiv.org/pdf/2601.06843"
 pdf: ""
