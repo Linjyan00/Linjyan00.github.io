@@ -1,152 +1,206 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Junyan Lin",
+    "label": "Ph.D. Student in Computer Science",
+    "email": "linjyan00@163.com",
+    "phone": "+86-17367107694",
+    "website": "https://scholar.google.com/citations?user=nbuk8v8AAAAJ&hl=zh-CN",
+    "summary": "Ph.D. student in Computer Science at The Hong Kong Polytechnic University. Research interests include Multimodal Large Language Models, Vision-Language-Action Models and World Models, and multisource remote sensing image classification.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hong Kong",
+      "countryCode": "",
+      "region": "China"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=nbuk8v8AAAAJ&hl=zh-CN"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Linjyan00",
+        "url": "https://github.com/Linjyan00"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "The Hong Kong Polytechnic University, Department of Computing",
+      "area": "Ph.D. Student in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025-08",
+      "endDate": "2029",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Supervisors: Changwen Chen, Xin Jin"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Eastern Institute for Advanced Study, College of Information Science and Technology",
+      "area": "Visiting Student",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2024-01",
+      "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Supervisor: Xiaoyu Shen"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Ocean University of China, School of Computer Science and Technology",
+      "area": "M.Phil. of Computer Science and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2022-09",
+      "endDate": "2025",
+      "gpa": "3.82/4.0",
+      "courses": [
+        "Supervisor: Feng Gao"
+      ]
+    },
+    {
+      "institution": "Zhejiang Gongshang University, School of Computer Science and Technology",
+      "area": "B.S. of Computer Science and Technology",
+      "studyType": "",
+      "startDate": "2018-09",
+      "endDate": "2022",
+      "gpa": "88/100 (Rank 1/68)",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "C++"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Interests and Hobbies",
+      "keywords": [
+        "Motorcycling",
+        "Fitness",
+        "Film Appreciation"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models",
+      "publisher": "CVPR 2026 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "J. Zhang*, J. Tong*, Junyan Lin*, et al."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Efficient Token Compression for the Understanding and Generation Unified MLLMs",
+      "publisher": "ISCAS 2026 - IEEE International Symposium on Circuits and Systems",
+      "releaseDate": "2026-05-01",
+      "website": "",
+      "summary": "Junyan Lin, J. Liu, S. Zhao, et al."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models",
+      "publisher": "Submitted to ICML 2026",
+      "releaseDate": "2026-01-01",
+      "website": "https://arxiv.org/pdf/2601.06843",
+      "summary": "Junyan Lin, J. Tong, H. Wu, et al."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Multimodal Language Models See Better When They Look Shallower",
+      "publisher": "EMNLP 2025 - Conference on Empirical Methods in Natural Language Processing",
+      "releaseDate": "2025-11-01",
+      "website": "https://aclanthology.org/2025.emnlp-main.339/",
+      "summary": "H. Chen*, Junyan Lin*, X. Chen, et al. Oral."
+    },
+    {
+      "name": "Multi-Layer Visual Feature Fusion in Multimodal LLMs: Methods, Analysis, and Best Practices",
+      "publisher": "CVPR 2025 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "releaseDate": "2025-03-01",
+      "website": "https://arxiv.org/pdf/2503.06063",
+      "summary": "Junyan Lin, H. Chen, Y. Fan, et al."
+    },
+    {
+      "name": "Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification",
+      "publisher": "IEEE Transactions on Geoscience and Remote Sensing",
+      "releaseDate": "2025-01-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10924653",
+      "summary": "Junyan Lin, F. Gao, L. Qi, et al."
+    },
+    {
+      "name": "Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs",
+      "publisher": "VCIP 2024 - IEEE International Conference on Visual Communications and Image Processing",
+      "releaseDate": "2024-12-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10849922/",
+      "summary": "J. Liu, Y. Wei, Junyan Lin, et al."
+    },
+    {
+      "name": "To Preserve or Compress: A Study of Connectors Through Perceptual Efficacy in Multimodal Large Language Models",
+      "publisher": "EMNLP 2024 - Conference on Empirical Methods in Natural Language Processing",
+      "releaseDate": "2024-12-01",
+      "website": "https://aclanthology.org/2024.emnlp-main.325/",
+      "summary": "Junyan Lin, H. Chen, D. Zhu, et al."
+    },
+    {
+      "name": "Hyperspectral Image Change Detection via Cross-Sample Slot Attention and Dual Gated Feed-Forward Network",
+      "publisher": "PRCV 2024 - Chinese Conference on Pattern Recognition and Computer Vision",
+      "releaseDate": "2024-10-01",
+      "website": "https://link.springer.com/chapter/10.1007/978-981-97-8493-6_32",
+      "summary": "L. Cheng, Junyan Lin, F. Gao, et al."
+    },
+    {
+      "name": "Boosting Spatial-Spectral Masked Auto-Encoder Through Mining Redundant Spectra for HSI-SAR/LiDAR Classification",
+      "publisher": "IGARSS 2024 - IEEE International Geoscience and Remote Sensing Symposium",
+      "releaseDate": "2024-07-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10642405/",
+      "summary": "Junyan Lin, X. Jin, F. Gao, et al."
+    },
+    {
+      "name": "Sparse Focus Network for Multi-Source Remote Sensing Data Classification",
+      "publisher": "IGARSS 2024 - IEEE International Geoscience and Remote Sensing Symposium",
+      "releaseDate": "2024-07-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10641700",
+      "summary": "X. Jin, Junyan Lin, F. Gao, et al."
+    },
+    {
+      "name": "SS-MAE: Spatial-spectral masked autoencoder for multisource remote sensing image classification",
+      "publisher": "IEEE Transactions on Geoscience and Remote Sensing",
+      "releaseDate": "2023-12-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10314566/",
+      "summary": "Junyan Lin, F. Gao, X. Shi, et al."
+    },
+    {
+      "name": "Gated-Cross Aggregation Network for Hyperspectral and LiDAR Data Classification",
+      "publisher": "IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium",
+      "releaseDate": "2023-07-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10282184/",
+      "summary": "X. Shi, Junyan Lin, Y. Rao, et al."
+    },
+    {
+      "name": "Hyperspectral and SAR Image Classification via Recursive Feature Interactive Fusion Network",
+      "publisher": "IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium",
+      "releaseDate": "2023-07-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10282312",
+      "summary": "L. Lv, Junyan Lin, F. Gao, et al."
+    },
+    {
+      "name": "Multi-Scale Transformer Network for Hyperspectral Image Denoising",
+      "publisher": "IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium",
+      "releaseDate": "2023-07-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10282467/",
+      "summary": "S. Hu, Y. Hu, Junyan Lin, et al."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
