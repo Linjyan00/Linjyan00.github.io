@@ -43,7 +43,7 @@ I am a Ph.D. student in Computer Science at [The Hong Kong Polytechnic Universit
 
 **Multimodal Large Language Models:**
 
-- J. Zhang*, J. Tong*, **J. Lin***, et al. Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models. **CVPR 2026** (CCF-A, CV Tier 1 Conference)
+- J. Zhang*, J. Tong*, **J. Lin***, et al. [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/pdf/2603.02872). **CVPR 2026** (CCF-A, CV Tier 1 Conference)
 - **J. Lin**, J. Liu, S. Zhao, et al. Efficient Token Compression for the Understanding and Generation Unified MLLMs. **ISCAS 2026** (CCF-B)
 - H. Chen*, **J. Lin***, X. Chen, et al. [Multimodal Language Models See Better When They Look Shallower](https://aclanthology.org/2025.emnlp-main.339/). **EMNLP 2025 Oral** (CCF-B, NLP Tier 1 Conference)
 - **J. Lin**, H. Chen, Y. Fan, et al. [Multi-Layer Visual Feature Fusion in Multimodal LLMs: Methods, Analysis, and Best Practices](https://arxiv.org/pdf/2503.06063). **CVPR 2025** (CCF-A, CV Tier 1 Conference)
@@ -64,12 +64,6 @@ I am a Ph.D. student in Computer Science at [The Hong Kong Polytechnic Universit
 
 *For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=nbuk8v8AAAAJ&hl=zh-CN).*
 
-## Contact
-
-- **Email**: linjyan00@163.com
-- **Phone**: +86-17367107694
-- **Google Scholar**: [https://scholar.google.com/citations?user=nbuk8v8AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=nbuk8v8AAAAJ&hl=zh-CN)
-- **GitHub**: [https://github.com/LinJyan00](https://github.com/LinJyan00)
 
 ## Personal Interests
 
